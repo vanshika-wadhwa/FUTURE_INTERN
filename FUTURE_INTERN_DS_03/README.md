@@ -114,5 +114,5 @@ Common terms: *helpful, relevant, useful, clear, support, assignments, satisfied
 ## 🚀 How to Run the Project  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/vanshika-wadhwa/college-feedback-analysis.git
-   cd college-feedback-analysis
+   git clone https://github.com/vanshika-wadhwa/FUTURE_INTERN/tree/task1/FUTURE_INTERN_DS_03
+   
