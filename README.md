@@ -11,7 +11,7 @@ Each task focuses on different aspects of **data analytics, visualization**.
   - FUTURE_INTERN_DS_01/ → Task 1: Sales Data Analysis (Power BI)  
   - FUTURE_INTERN_DS_02/ → Task 2: Social Media Campaign Performance Tracker (Power BI)  
   - FUTURE_INTERN_DS_03/ → Task 3: College Event Feedback Analysis (Python + NLP)  
-  - README.md → (this file)  
+   
 
 ---
 
